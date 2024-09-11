@@ -1,0 +1,511 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node3" apprev="19982" appversion="7.0.4">
+  <panorama id="node16">
+    <input height="2311" leveltilesize="510" levelbiashidpi="1.000" levelingpitch="0.29125699999999999" levelingroll="-1.52216" leveltileurl="tiles/node16/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" width="2311" overlap="1">
+      <level height="2311" preload="0" predecode="0" width="2311"/>
+      <level height="1155" preload="0" predecode="0" width="1155"/>
+      <level height="577" preload="0" predecode="0" width="577"/>
+      <level height="288" preload="1" predecode="1" width="288"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" fov="70" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" scaletofit="1" fov="120" fovfisheye="360" tilt="90" fovstereographic="330"/>
+    </view>
+    <userdata customnodeid="" latitude="" heading="0" source="" author="" info="" title="" description="" datetime="" nodeid="node16" longitude="" tags="outside|Pano2VR6|inside" comment="" copyright="">
+      <mapcoords x_floorplan_percent="4.55959" y_floorplan_percent="50.9138" mapid="FloorPlan01" x="0.12085" y="-1.33896"/>
+    </userdata>
+    <hotspots height="0" wordwrap="1" width="180" smoothmovement="0">
+      <label backgroundalpha="1" height="0" borderalpha="1" backgroundcolor="0xffffff" wordwrap="1" bordercolor="0x000000" textalpha="1" enabled="1" border="1" borderradius="1" width="180" background="1" textcolor="0x000000"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0"/>
+      <hotspot pan="-359.05" target="" url="{node1}" skinid="ht_node" id="Point01" title="Вход в Музей Галимджана Ибрагимова" tilt="-2.1" description=""/>
+      <hotspot pan="-42.05" target="" url="{node3}" skinid="ht_node" id="Point02" title="Памятник Г.Ибрагимову" tilt="-4.6" description=""/>
+      <hotspot pan="-358.99" target="" url="" skinid="ht_info" id="Point03" title="История основания музея" tilt="-20.88" description="&lt;div class=&quot;ggmarkdown&quot;>&lt;p>В 1967 г. к 80-летию писателя, учитель родного языка Назиба Хайруллина и художник Галимзян Галияскаров открыли в комнате Султанмуратовской СОШ первый музей.&lt;/p>&#xa;&lt;p>Спустя 20 лет, в 1987 г., под собранную коллекцию экспонатов выделили отдельный дом в деревне.&lt;/p>&#xa;&lt;p>В 1996 г. было построено современное здание музея.&lt;/p>&#xa;&lt;div>"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomafteroutfov="20" blendcolor="0x000000" zoomafterinfov="90" zoomin="0" zoomout="0" enabled="1" type="crossdissolve" zoomoutpause="1" delay="none" zoomspeed="2" zoomfov="20" softedge="0"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control sensitivity="8" lockedwheel="0" zoomcentercursor="1" dblclickfullscreen="0" contextfullscreen="1" contextvr="1" contextprojections="0" rubberband="0" lockedmouse="0" lockedkeyboard="0" speedwheel="1" invertwheel="0" lockedkeyboardzoom="0" hideabout="0" invertcontrol="1" simulatemass="1"/>
+    <vr toggleskinbutton="1"/>
+  </panorama>
+  <panorama id="node3">
+    <input height="2423" leveltilesize="510" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" width="2423" overlap="1">
+      <level height="2423" preload="0" predecode="0" width="2423"/>
+      <level height="1211" preload="0" predecode="0" width="1211"/>
+      <level height="605" preload="0" predecode="0" width="605"/>
+      <level height="302" preload="1" predecode="1" width="302"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-89.676" fovmode="0">
+      <start pan="0" fov="70" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" scaletofit="1" fov="120" fovfisheye="360" tilt="90" fovstereographic="270"/>
+    </view>
+    <userdata customnodeid="" latitude="" heading="-89.676" source="" author="" info="" title="" description="" datetime="" nodeid="node3" longitude="" tags="outside|Pano2VR6|inside" comment="" copyright="">
+      <mapcoords x_floorplan_percent="49.8964" y_floorplan_percent="94.7258" mapid="FloorPlan01" x="1.32248" y="-2.49115"/>
+    </userdata>
+    <hotspots height="0" wordwrap="1" width="180" smoothmovement="0">
+      <label backgroundalpha="1" height="0" borderalpha="1" backgroundcolor="0xffffff" wordwrap="1" bordercolor="0x000000" textalpha="1" enabled="1" border="1" borderradius="1" width="180" background="1" textcolor="0x000000"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0"/>
+      <hotspot pan="-307.39" target="" url="{node16}" skinid="ht_node" id="Point01" title="Двор музея" tilt="1.47" description=""/>
+      <hotspot pan="-3.88" target="" url="" skinid="ht_info" id="Point02" title="Кто такой Г.Ибрагимов?" tilt="-12.2" description="Галимджан Гирфанович Ибрагимов (1887-1938) — уроженец д.Султанмуратово,&#xa;татарский писатель и языковед, общественный деятель. Один из зачинателей&#xa;современной татарской литературы.&#xa;&#xa;Памятник знаменитому аургазинцу в его родной деревне установлен в 1987 г. Бюст создал скульптор Зильфат Басыров."/>
+      <hotspot pan="-172.5" target="" url="" skinid="ht_info" id="Point03" title="История села Султанмуратово" tilt="13.61" description="В поисках новых земель в 1761 году татарские мишари из деревни Карыш в Балтачевском районе во главе с Султанмуратом Янышевым прибыли на территорию башкир, которые жили рядом с рекой Аургазы и Турсугали. Выкупили у них новые земли и основали Султанмуратово."/>
+      <hotspot pan="-3.05" target="" url="images/dYiPCVaNpFI.jpg" skinid="ht_image" id="Point04" title="Памятник Г.Ибрагимову" tilt="4.1" description=""/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomafteroutfov="20" blendcolor="0x000000" zoomafterinfov="90" zoomin="0" zoomout="0" enabled="1" type="crossdissolve" zoomoutpause="1" delay="none" zoomspeed="2" zoomfov="20" softedge="0"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control sensitivity="8" lockedwheel="0" zoomcentercursor="1" dblclickfullscreen="0" contextfullscreen="1" contextvr="1" contextprojections="0" rubberband="0" lockedmouse="0" lockedkeyboard="0" speedwheel="1" invertwheel="0" lockedkeyboardzoom="0" hideabout="0" invertcontrol="1" simulatemass="1"/>
+    <vr toggleskinbutton="1"/>
+  </panorama>
+  <panorama id="node1">
+    <input height="3749" leveltilesize="510" levelbiashidpi="1.000" levelingpitch="0.954708" levelingroll="-2.9093300000000002" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" width="3749" overlap="1">
+      <level height="3749" preload="0" predecode="0" width="3749"/>
+      <level height="1874" preload="0" predecode="0" width="1874"/>
+      <level height="937" preload="0" predecode="0" width="937"/>
+      <level height="468" preload="1" predecode="1" width="468"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" fov="70" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" scaletofit="1" fov="120" fovfisheye="360" tilt="90" fovstereographic="270"/>
+    </view>
+    <userdata customnodeid="" latitude="" heading="0" source="" author="" info="" title="" description="" datetime="" nodeid="node1" longitude="" tags="inside|Panorams" comment="" copyright="">
+      <mapcoords x_floorplan_percent="29.171" y_floorplan_percent="50.6005" mapid="FloorPlan01" x="0.773163" y="-1.33072"/>
+    </userdata>
+    <hotspots height="0" wordwrap="1" width="180" smoothmovement="0">
+      <label backgroundalpha="1" height="0" borderalpha="1" backgroundcolor="0xffffff" wordwrap="1" bordercolor="0x000000" textalpha="1" enabled="1" border="1" borderradius="1" width="180" background="1" textcolor="0x000000"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0"/>
+      <hotspot pan="-270.69" target="" url="{node2}" skinid="ht_node" id="Point01" title="Стенд с причастными к созданию музея" tilt="-31.22" description=""/>
+      <hotspot pan="-178.2" target="" url="{node16}" skinid="ht_node" id="Point02" title="Двор музея" tilt="-6.07" description=""/>
+      <hotspot pan="-241.71" target="" url="{node4}" skinid="ht_node" id="Point03" title="Уголок с достижениями музея" tilt="-20" description=""/>
+      <hotspot pan="-119.29" target="" url="{node15}" skinid="ht_node" id="Point04" title="Стена &quot;Ялта-1927&quot;" tilt="-19.99" description=""/>
+      <hotspot pan="-3.7" target="" url="" skinid="ht_info" id="Point05" title="Память о творце" tilt="-6.27" description="Многие экспонаты, как эту картину, передали в дар музею сотрудники Института языка и литературы г.Казань.&#xa;&#xa;На сегодняшний день имя Г.Ибрагимова носят в Казани - упомянутый институт, в Стерлитамаке - гимназия, в Уфе - бульвар, центральная районная библиотека, в Толбазах - одна из улиц, в д.Ибраево - детский лагерь."/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomafteroutfov="20" blendcolor="0x000000" zoomafterinfov="90" zoomin="0" zoomout="0" enabled="1" type="crossdissolve" zoomoutpause="1" delay="none" zoomspeed="2" zoomfov="20" softedge="0"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control sensitivity="8" lockedwheel="0" zoomcentercursor="1" dblclickfullscreen="0" contextfullscreen="1" contextvr="1" contextprojections="0" rubberband="0" lockedmouse="0" lockedkeyboard="0" speedwheel="1" invertwheel="0" lockedkeyboardzoom="0" hideabout="0" invertcontrol="1" simulatemass="1"/>
+    <vr toggleskinbutton="1"/>
+  </panorama>
+  <panorama id="node2">
+    <input height="3749" leveltilesize="510" levelbiashidpi="1.000" levelingpitch="-0.35539799999999999" levelingroll="-0.68127099999999996" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" width="3749" overlap="1">
+      <level height="3749" preload="0" predecode="0" width="3749"/>
+      <level height="1874" preload="0" predecode="0" width="1874"/>
+      <level height="937" preload="0" predecode="0" width="937"/>
+      <level height="468" preload="1" predecode="1" width="468"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="-33.471" fov="70" projection="4" tilt="2.29328"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" scaletofit="1" fov="120" fovfisheye="360" tilt="90" fovstereographic="270"/>
+    </view>
+    <userdata customnodeid="" latitude="" heading="0" source="" author="" info="" title="" description="" datetime="" nodeid="node2" longitude="" tags="inside|Pano2VR6" comment="" copyright="">
+      <mapcoords x_floorplan_percent="28.5492" y_floorplan_percent="35.8225" mapid="FloorPlan01" x="0.756683" y="-0.942078"/>
+    </userdata>
+    <hotspots height="0" wordwrap="1" width="180" smoothmovement="0">
+      <label backgroundalpha="1" height="0" borderalpha="1" backgroundcolor="0xffffff" wordwrap="1" bordercolor="0x000000" textalpha="1" enabled="1" border="1" borderradius="1" width="180" background="1" textcolor="0x000000"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0"/>
+      <hotspot pan="-84.38" target="" url="{node1}" skinid="ht_node" id="Point01" title="Вход в Музей Галимджана Ибрагимова" tilt="-36" description=""/>
+      <hotspot pan="-204.49" target="" url="{node4}" skinid="ht_node" id="Point02" title="Уголок с достижениями музея" tilt="-37.33" description=""/>
+      <hotspot pan="-340.8" target="" url="{node5}" skinid="ht_node" id="Point03" title="Стенд с уважаемыми жителями села" tilt="-21.89" description=""/>
+      <hotspot pan="-306.22" target="" url="" skinid="ht_info" id="Point04" title="Стенд с причастными к созданию музея" tilt="-10.23" description="Инициатива исходила от главы администрации района М.Валитова, главы сельского совета Л.Мухамадияровой, председателя колхоза им.Г.Ибрагимова Р.Нигматулина при участии зам. главы администрации С.Каримова.&#xa;&#xa;Стройкой руководил гл. архитектор района Р.Ягафаров. Проект архитектора Н.Галиева. &#xa;&#xa;Работы вели организации «Зодчий» (дир. Р.Аминев) и «Керамика» (дир. Г.Орлов).&#xa;&#xa;Внутренним оформлением занимались работники районного и Национального музея РБ. "/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomafteroutfov="20" blendcolor="0x000000" zoomafterinfov="90" zoomin="0" zoomout="0" enabled="1" type="crossdissolve" zoomoutpause="1" delay="none" zoomspeed="2" zoomfov="20" softedge="0"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control sensitivity="8" lockedwheel="0" zoomcentercursor="1" dblclickfullscreen="0" contextfullscreen="1" contextvr="1" contextprojections="0" rubberband="0" lockedmouse="0" lockedkeyboard="0" speedwheel="1" invertwheel="0" lockedkeyboardzoom="0" hideabout="0" invertcontrol="1" simulatemass="1"/>
+    <vr toggleskinbutton="1"/>
+  </panorama>
+  <panorama id="node4">
+    <input height="3749" leveltilesize="510" levelbiashidpi="1.000" levelingpitch="-4.7103200000000003" levelingroll="-1.77877" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" width="3749" overlap="1">
+      <level height="3749" preload="0" predecode="0" width="3749"/>
+      <level height="1874" preload="0" predecode="0" width="1874"/>
+      <level height="937" preload="0" predecode="0" width="937"/>
+      <level height="468" preload="1" predecode="1" width="468"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-179.5" fovmode="0">
+      <start pan="0" fov="70" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" scaletofit="1" fov="120" fovfisheye="360" tilt="90" fovstereographic="270"/>
+    </view>
+    <userdata customnodeid="" latitude="" heading="-179.5" source="" author="" info="" title="" description="" datetime="" nodeid="node4" longitude="" tags="inside|Pano2VR6" comment="" copyright="">
+      <mapcoords x_floorplan_percent="19.8446" y_floorplan_percent="32.846" mapid="FloorPlan01" x="0.52597" y="-0.8638"/>
+    </userdata>
+    <hotspots height="0" wordwrap="1" width="180" smoothmovement="0">
+      <label backgroundalpha="1" height="0" borderalpha="1" backgroundcolor="0xffffff" wordwrap="1" bordercolor="0x000000" textalpha="1" enabled="1" border="1" borderradius="1" width="180" background="1" textcolor="0x000000"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0"/>
+      <hotspot pan="-212.19" target="" url="{node2}" skinid="ht_node" id="Point01" title="Стенд с причастными к созданию музея" tilt="-37.61" description=""/>
+      <hotspot pan="-241.35" target="" url="{node1}" skinid="ht_node" id="Point02" title="Вход в Музей Галимджана Ибрагимова" tilt="-23.29" description=""/>
+      <hotspot pan="-183.2" target="" url="{node5}" skinid="ht_node" id="Point03" title="Стенд с уважаемыми жителями села" tilt="-15.52" description=""/>
+      <hotspot pan="-3.87" target="" url="" skinid="ht_info" id="Point04" title="Уголок с достижениями музея" tilt="-4.61" description="Здесь расположена стена с достижениями музея, книга отзывов и предложений и кафедра с библиографическими данными о Г.Ибрагимове"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomafteroutfov="20" blendcolor="0x000000" zoomafterinfov="90" zoomin="0" zoomout="0" enabled="1" type="crossdissolve" zoomoutpause="1" delay="none" zoomspeed="2" zoomfov="20" softedge="0"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control sensitivity="8" lockedwheel="0" zoomcentercursor="1" dblclickfullscreen="0" contextfullscreen="1" contextvr="1" contextprojections="0" rubberband="0" lockedmouse="0" lockedkeyboard="0" speedwheel="1" invertwheel="0" lockedkeyboardzoom="0" hideabout="0" invertcontrol="1" simulatemass="1"/>
+    <vr toggleskinbutton="1"/>
+  </panorama>
+  <panorama id="node5">
+    <input height="3750" leveltilesize="510" levelbiashidpi="1.000" levelingpitch="-4.8648100000000003" levelingroll="-4.24132" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" width="3750" overlap="1">
+      <level height="3750" preload="0" predecode="0" width="3750"/>
+      <level height="1875" preload="0" predecode="0" width="1875"/>
+      <level height="937" preload="0" predecode="0" width="937"/>
+      <level height="468" preload="1" predecode="1" width="468"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="-94.8439" fov="70" projection="4" tilt="2.78995"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" scaletofit="1" fov="120" fovfisheye="360" tilt="90" fovstereographic="270"/>
+    </view>
+    <userdata customnodeid="" latitude="" heading="0" source="" author="" info="" title="" description="" datetime="" nodeid="node5" longitude="" tags="inside|Pano2VR6" comment="" copyright="">
+      <mapcoords x_floorplan_percent="50.2073" y_floorplan_percent="32.7937" mapid="FloorPlan01" x="1.33072" y="-0.862427"/>
+    </userdata>
+    <hotspots height="0" wordwrap="1" width="180" smoothmovement="0">
+      <label backgroundalpha="1" height="0" borderalpha="1" backgroundcolor="0xffffff" wordwrap="1" bordercolor="0x000000" textalpha="1" enabled="1" border="1" borderradius="1" width="180" background="1" textcolor="0x000000"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0"/>
+      <hotspot pan="-171.03" target="" url="{node2}" skinid="ht_node" id="Point01" title="" tilt="-26.68" description=""/>
+      <hotspot pan="-22.19" target="" url="{node6}" skinid="ht_node" id="Point02" title="Этнографиеский уголок" tilt="-20.18" description=""/>
+      <hotspot pan="-184.34" target="" url="{node4}" skinid="ht_node" id="Point03" title="Уголок с достижениями музея" tilt="-15.93" description=""/>
+      <hotspot pan="-351.92" target="" url="{node7}" skinid="ht_node" id="Point04" title="Состав экспозиции &quot;Ызба&quot;" tilt="-13.77" description=""/>
+      <hotspot pan="-43.22" target="" url="{node8}" skinid="ht_node" id="Point05" title="Научная деятельность" tilt="-13.5" description=""/>
+      <hotspot pan="-94.12" target="" url="" skinid="ht_info" id="Point06" title="Стенд с уважаемыми жителями села" tilt="-11.85" description="Сверху слева представлены портреты ветеранов, которые были живы на момент открытия музея. Справа - ветераны труда.&#xa;&#xa;Снизу слева - витрина, посвященная председателю колхоза-миллионера «Урак» Г.Алимбекову. Справа - ветерану ВОВ Г.Зубаирову."/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomafteroutfov="20" blendcolor="0x000000" zoomafterinfov="90" zoomin="0" zoomout="0" enabled="1" type="crossdissolve" zoomoutpause="1" delay="none" zoomspeed="2" zoomfov="20" softedge="0"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control sensitivity="8" lockedwheel="0" zoomcentercursor="1" dblclickfullscreen="0" contextfullscreen="1" contextvr="1" contextprojections="0" rubberband="0" lockedmouse="0" lockedkeyboard="0" speedwheel="1" invertwheel="0" lockedkeyboardzoom="0" hideabout="0" invertcontrol="1" simulatemass="1"/>
+    <vr toggleskinbutton="1"/>
+  </panorama>
+  <panorama id="node6">
+    <input height="3749" leveltilesize="510" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" width="3749" overlap="1">
+      <level height="3749" preload="0" predecode="0" width="3749"/>
+      <level height="1874" preload="0" predecode="0" width="1874"/>
+      <level height="937" preload="0" predecode="0" width="937"/>
+      <level height="468" preload="1" predecode="1" width="468"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-46.1394" fovmode="0">
+      <start pan="0" fov="70" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" scaletofit="1" fov="120" fovfisheye="360" tilt="90" fovstereographic="270"/>
+    </view>
+    <userdata customnodeid="" latitude="" heading="-46.1394" source="" author="" info="" title="" description="" datetime="" nodeid="node6" longitude="" tags="inside|Pano2VR6" comment="" copyright="">
+      <mapcoords x_floorplan_percent="68.8601" y_floorplan_percent="32.4804" mapid="FloorPlan01" x="1.8251" y="-0.854187"/>
+    </userdata>
+    <hotspots height="0" wordwrap="1" width="180" smoothmovement="0">
+      <label backgroundalpha="1" height="0" borderalpha="1" backgroundcolor="0xffffff" wordwrap="1" bordercolor="0x000000" textalpha="1" enabled="1" border="1" borderradius="1" width="180" background="1" textcolor="0x000000"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0"/>
+      <hotspot pan="-253.89" target="" url="" skinid="ht_node" id="Point01" title="Стенд с уважаемыми жителями села" tilt="-23.44" description=""/>
+      <hotspot pan="-178.36" target="" url="{node9}" skinid="ht_node" id="Point02" title="Макет дома Г.Ибрагимова (вид спереди)" tilt="-32.7" description=""/>
+      <hotspot pan="-2.6" target="" url="{node7}" skinid="ht_node" id="Point03" title="Состав экспозиции &quot;Ызба&quot;" tilt="-27.06" description=""/>
+      <hotspot pan="-111.48" target="" url="{node8}" skinid="ht_node" id="Point04" title="Научная деятельность" tilt="-28.59" description=""/>
+      <hotspot pan="-3.71" target="" url="" skinid="ht_info" id="Point05" title="Этнографиеский уголок" tilt="-4.63" description="Этнографический уголок представляет собой экспозицию предметов быта конца XIX - начала XX века. Выполнена в декорациях татарской &quot;ызбы&quot;. Экспонаты предоставили жители села, близкие и родственники писателя на безвозмездной сонове."/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomafteroutfov="20" blendcolor="0x000000" zoomafterinfov="90" zoomin="0" zoomout="0" enabled="1" type="crossdissolve" zoomoutpause="1" delay="none" zoomspeed="2" zoomfov="20" softedge="0"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control sensitivity="8" lockedwheel="0" zoomcentercursor="1" dblclickfullscreen="0" contextfullscreen="1" contextvr="1" contextprojections="0" rubberband="0" lockedmouse="0" lockedkeyboard="0" speedwheel="1" invertwheel="0" lockedkeyboardzoom="0" hideabout="0" invertcontrol="1" simulatemass="1"/>
+    <vr toggleskinbutton="1"/>
+  </panorama>
+  <panorama id="node7">
+    <input height="3749" leveltilesize="510" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" width="3749" overlap="1">
+      <level height="3749" preload="0" predecode="0" width="3749"/>
+      <level height="1874" preload="0" predecode="0" width="1874"/>
+      <level height="937" preload="0" predecode="0" width="937"/>
+      <level height="468" preload="1" predecode="1" width="468"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-126.329" fovmode="0">
+      <start pan="0" fov="70" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" scaletofit="1" fov="120" fovfisheye="360" tilt="90" fovstereographic="270"/>
+    </view>
+    <userdata customnodeid="" latitude="" heading="-126.329" source="" author="" info="" title="" description="" datetime="" nodeid="node7" longitude="" tags="inside|Pano2VR6" comment="" copyright="">
+      <mapcoords x_floorplan_percent="70.9845" y_floorplan_percent="23.0809" mapid="FloorPlan01" x="1.88141" y="-0.606995"/>
+    </userdata>
+    <hotspots height="0" wordwrap="1" width="180" smoothmovement="0">
+      <label backgroundalpha="1" height="0" borderalpha="1" backgroundcolor="0xffffff" wordwrap="1" bordercolor="0x000000" textalpha="1" enabled="1" border="1" borderradius="1" width="180" background="1" textcolor="0x000000"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0"/>
+      <hotspot pan="-245.7" target="" url="{node6}" skinid="ht_node" id="Point01" title="Этнографиеский уголок" tilt="-38.4" description=""/>
+      <hotspot pan="-211.87" target="" url="{node8}" skinid="ht_node" id="Point02" title="Научная деятельность" tilt="-22.24" description=""/>
+      <hotspot pan="-294.99" target="" url="{node5}" skinid="ht_node" id="Point03" title="Стенд с уважаемыми жителями села" tilt="-19.41" description=""/>
+      <hotspot pan="-22.05" target="" url="" skinid="ht_info" id="Point04" title="Состав экспозиции &quot;Ызба&quot;" tilt="-48.5" description="Паласы, полотенца и скатерти сотканы руками мастериц с.Султанмуратово.&#xa;&#xa;Французские шали подарили родственница писателя Маусиля апа и соседка Фасахат эби.&#xa;&#xa;Позади на стене - белое платье невесты, в котором вышла замуж Маусиля апа.&#xa;&#xa;Впереди мундиры односельчан писателя С.Латыпова и А.Шагимуратова."/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomafteroutfov="20" blendcolor="0x000000" zoomafterinfov="90" zoomin="0" zoomout="0" enabled="1" type="crossdissolve" zoomoutpause="1" delay="none" zoomspeed="2" zoomfov="20" softedge="0"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control sensitivity="8" lockedwheel="0" zoomcentercursor="1" dblclickfullscreen="0" contextfullscreen="1" contextvr="1" contextprojections="0" rubberband="0" lockedmouse="0" lockedkeyboard="0" speedwheel="1" invertwheel="0" lockedkeyboardzoom="0" hideabout="0" invertcontrol="1" simulatemass="1"/>
+    <vr toggleskinbutton="1"/>
+  </panorama>
+  <panorama id="node8">
+    <input height="3749" leveltilesize="510" levelbiashidpi="1.000" levelingpitch="-2.5379700000000001" levelingroll="-2.3805499999999999" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" width="3749" overlap="1">
+      <level height="3749" preload="0" predecode="0" width="3749"/>
+      <level height="1874" preload="0" predecode="0" width="1874"/>
+      <level height="937" preload="0" predecode="0" width="937"/>
+      <level height="468" preload="1" predecode="1" width="468"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="92.6697" fovmode="0">
+      <start pan="92.2946" fov="70" projection="4" tilt="-12.4103"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" scaletofit="1" fov="120" fovfisheye="360" tilt="90" fovstereographic="270"/>
+    </view>
+    <userdata customnodeid="" latitude="" heading="92.6697" source="" author="" info="" title="" description="" datetime="" nodeid="node8" longitude="" tags="inside|Pano2VR6" comment="" copyright="">
+      <mapcoords x_floorplan_percent="77.772" y_floorplan_percent="51.8016" mapid="FloorPlan01" x="2.06131" y="-1.3623"/>
+    </userdata>
+    <hotspots height="0" wordwrap="1" width="180" smoothmovement="0">
+      <label backgroundalpha="1" height="0" borderalpha="1" backgroundcolor="0xffffff" wordwrap="1" bordercolor="0x000000" textalpha="1" enabled="1" border="1" borderradius="1" width="180" background="1" textcolor="0x000000"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0"/>
+      <hotspot pan="-91.16" target="" url="{node9}" skinid="ht_node" id="Point01" title="Макет дома Г.Ибрагимова (вид спереди)" tilt="-33.02" description=""/>
+      <hotspot pan="-158.98" target="" url="{node6}" skinid="ht_node" id="Point02" title="Этнографиеский уголок" tilt="-33.1" description=""/>
+      <hotspot pan="-329.87" target="" url="{node11}" skinid="ht_node" id="Point03" title="Стена &quot;Оренбург-1899&quot;" tilt="-24.98" description=""/>
+      <hotspot pan="-62.83" target="" url="{node10}" skinid="ht_node" id="Point04" title="Макет дома Г.Ибрагимова (вид сбоку)" tilt="-18.37" description=""/>
+      <hotspot pan="-178.86" target="" url="{node7}" skinid="ht_node" id="Point05" title="Состав экспозиции &quot;Ызба&quot;" tilt="-20.2" description=""/>
+      <hotspot pan="-128.78" target="" url="{node5}" skinid="ht_node" id="Point06" title="Стенд с уважаемыми жителями села" tilt="-15.2" description=""/>
+      <hotspot pan="-270.83" target="" url="" skinid="ht_info" id="Point07" title="Научная деятельность" tilt="-16.38" description="На стенде представлены научные работы, написанные школьниками и жителями с.Султанмуратова, плсвященные жизни Г.Ибрагимова."/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomafteroutfov="20" blendcolor="0x000000" zoomafterinfov="90" zoomin="0" zoomout="0" enabled="1" type="crossdissolve" zoomoutpause="1" delay="none" zoomspeed="2" zoomfov="20" softedge="0"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control sensitivity="8" lockedwheel="0" zoomcentercursor="1" dblclickfullscreen="0" contextfullscreen="1" contextvr="1" contextprojections="0" rubberband="0" lockedmouse="0" lockedkeyboard="0" speedwheel="1" invertwheel="0" lockedkeyboardzoom="0" hideabout="0" invertcontrol="1" simulatemass="1"/>
+    <vr toggleskinbutton="1"/>
+  </panorama>
+  <panorama id="node9">
+    <input height="3749" leveltilesize="510" levelbiashidpi="1.000" levelingpitch="-5.6226799999999999" levelingroll="-4.0315799999999999" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" width="3749" overlap="1">
+      <level height="3749" preload="0" predecode="0" width="3749"/>
+      <level height="1874" preload="0" predecode="0" width="1874"/>
+      <level height="937" preload="0" predecode="0" width="937"/>
+      <level height="468" preload="1" predecode="1" width="468"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-180.16" fovmode="0">
+      <start pan="0" fov="70" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" scaletofit="1" fov="120" fovfisheye="360" tilt="90" fovstereographic="270"/>
+    </view>
+    <userdata customnodeid="" latitude="" heading="-180.16" source="" author="" info="" title="" description="" datetime="" nodeid="node9" longitude="" tags="inside|Pano2VR6" comment="" copyright="">
+      <mapcoords x_floorplan_percent="63.9378" y_floorplan_percent="50.3394" mapid="FloorPlan01" x="1.69464" y="-1.32385"/>
+    </userdata>
+    <hotspots height="0" wordwrap="1" width="180" smoothmovement="0">
+      <label backgroundalpha="1" height="0" borderalpha="1" backgroundcolor="0xffffff" wordwrap="1" bordercolor="0x000000" textalpha="1" enabled="1" border="1" borderradius="1" width="180" background="1" textcolor="0x000000"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0"/>
+      <hotspot pan="-113.09" target="" url="{node6}" skinid="ht_node" id="Point01" title="Этнографиеский уголок" tilt="-34.32" description=""/>
+      <hotspot pan="-309.14" target="" url="{node10}" skinid="ht_node" id="Point02" title="Макет дома Г.Ибрагимова (вид сбоку)" tilt="-14.91" description=""/>
+      <hotspot pan="-182.95" target="" url="{node8}" skinid="ht_node" id="Point03" title="Научная деятельность" tilt="-27.28" description=""/>
+      <hotspot pan="-211.15" target="" url="{node11}" skinid="ht_node" id="Point04" title="Стена &quot;Оренбург-1899&quot;" tilt="-16.28" description=""/>
+      <hotspot pan="-1.6" target="" url="" skinid="ht_info" id="Point05" title="Макет дома Г.Ибрагимова (вид спереди)" tilt="-43.84" description="Здесь родился и вырос знаменитый аургазинец. Макет оформил художник П.Ляпин.&#xa;&#xa;Дом был двухэтажным. Первый этаж был каменным. В настоящее время усадьба сохранилась. В ней живут родственники Г.Ибрагимова."/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomafteroutfov="20" blendcolor="0x000000" zoomafterinfov="90" zoomin="0" zoomout="0" enabled="1" type="crossdissolve" zoomoutpause="1" delay="none" zoomspeed="2" zoomfov="20" softedge="0"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control sensitivity="8" lockedwheel="0" zoomcentercursor="1" dblclickfullscreen="0" contextfullscreen="1" contextvr="1" contextprojections="0" rubberband="0" lockedmouse="0" lockedkeyboard="0" speedwheel="1" invertwheel="0" lockedkeyboardzoom="0" hideabout="0" invertcontrol="1" simulatemass="1"/>
+    <vr toggleskinbutton="1"/>
+  </panorama>
+  <panorama id="node10">
+    <input height="3749" leveltilesize="510" levelbiashidpi="1.000" levelingpitch="-0.97756699999999996" levelingroll="-1.3010299999999999" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" width="3749" overlap="1">
+      <level height="3749" preload="0" predecode="0" width="3749"/>
+      <level height="1874" preload="0" predecode="0" width="1874"/>
+      <level height="937" preload="0" predecode="0" width="937"/>
+      <level height="468" preload="1" predecode="1" width="468"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-90.2234" fovmode="0">
+      <start pan="0" fov="70" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" scaletofit="1" fov="120" fovfisheye="360" tilt="90" fovstereographic="270"/>
+    </view>
+    <userdata customnodeid="" latitude="" heading="-90.2234" source="" author="" info="" title="" description="" datetime="" nodeid="node10" longitude="" tags="inside|Pano2VR6" comment="" copyright="">
+      <mapcoords x_floorplan_percent="50.2591" y_floorplan_percent="63.7598" mapid="FloorPlan01" x="1.33209" y="-1.67679"/>
+    </userdata>
+    <hotspots height="0" wordwrap="1" width="180" smoothmovement="0">
+      <label backgroundalpha="1" height="0" borderalpha="1" backgroundcolor="0xffffff" wordwrap="1" bordercolor="0x000000" textalpha="1" enabled="1" border="1" borderradius="1" width="180" background="1" textcolor="0x000000"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0"/>
+      <hotspot pan="-46.55" target="" url="{node9}" skinid="ht_node" id="Point01" title="Макет дома Г.Ибрагимова (вид спереди)" tilt="-17.77" description=""/>
+      <hotspot pan="-84.16" target="" url="{node8}" skinid="ht_node" id="Point02" title="Научная деятельность" tilt="-18.18" description=""/>
+      <hotspot pan="-104.25" target="" url="{node11}" skinid="ht_node" id="Point03" title="Стена &quot;Оренбург-1899&quot;" tilt="-17.3" description=""/>
+      <hotspot pan="-5.39" target="" url="" skinid="ht_info" id="Point04" title="Макет дома Г.Ибрагимова (вид сбоку)" tilt="-45.26" description="Детство Галимджана прошло на природе. Любимое занятие — ночной выгул лошадей, когда старшие делились интересными историями.&#xa;&#xa;Учился он в медресе в Кшаннах. Одновременно ходил в русскую школу в родной деревне.&#xa;&#xa;В последний раз Г.Ибрагимов посетил родной дом в 1920 г."/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomafteroutfov="20" blendcolor="0x000000" zoomafterinfov="90" zoomin="0" zoomout="0" enabled="1" type="crossdissolve" zoomoutpause="1" delay="none" zoomspeed="2" zoomfov="20" softedge="0"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control sensitivity="8" lockedwheel="0" zoomcentercursor="1" dblclickfullscreen="0" contextfullscreen="1" contextvr="1" contextprojections="0" rubberband="0" lockedmouse="0" lockedkeyboard="0" speedwheel="1" invertwheel="0" lockedkeyboardzoom="0" hideabout="0" invertcontrol="1" simulatemass="1"/>
+    <vr toggleskinbutton="1"/>
+  </panorama>
+  <panorama id="node11">
+    <input height="3749" leveltilesize="510" levelbiashidpi="1.000" levelingpitch="-2.0769899999999999" levelingroll="-2.3303500000000001" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" width="3749" overlap="1">
+      <level height="3749" preload="0" predecode="0" width="3749"/>
+      <level height="1874" preload="0" predecode="0" width="1874"/>
+      <level height="937" preload="0" predecode="0" width="937"/>
+      <level height="468" preload="1" predecode="1" width="468"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" fov="70" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" scaletofit="1" fov="120" fovfisheye="360" tilt="90" fovstereographic="330"/>
+    </view>
+    <userdata customnodeid="" latitude="" heading="0" source="" author="" info="" title="" description="" datetime="" nodeid="node11" longitude="" tags="inside|Pano2VR6" comment="" copyright="">
+      <mapcoords x_floorplan_percent="80.3109" y_floorplan_percent="67.5196" mapid="FloorPlan01" x="2.1286" y="-1.77567"/>
+    </userdata>
+    <hotspots height="0" wordwrap="1" width="180" smoothmovement="0">
+      <label backgroundalpha="1" height="0" borderalpha="1" backgroundcolor="0xffffff" wordwrap="1" bordercolor="0x000000" textalpha="1" enabled="1" border="1" borderradius="1" width="180" background="1" textcolor="0x000000"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0"/>
+      <hotspot pan="-248.81" target="" url="{node8}" skinid="ht_node" id="Point01" title="Научная деятельность" tilt="-31.09" description=""/>
+      <hotspot pan="-216.12" target="" url="{node9}" skinid="ht_node" id="Point02" title="Макет дома Г.Ибрагимова (вид спереди)" tilt="-18.98" description=""/>
+      <hotspot pan="-191.94" target="" url="{node10}" skinid="ht_node" id="Point03" title="Макет дома Г.Ибрагимова (вид сбоку)" tilt="-18.39" description=""/>
+      <hotspot pan="-131.71" target="" url="{node12}" skinid="ht_node" id="Point04" title="Стена &quot;Киев-1912&quot;" tilt="-26.69" description=""/>
+      <hotspot pan="-359.58" target="" url="" skinid="ht_info" id="Point05" title="Стена &quot;Оренбург-1899&quot;" tilt="-2.78" description="В 1899 г. Г.Ибрагимов поехал поступать в Оренбург, в медресе &quot;Хусания&quot;, но не был принят. Тогда он поступил в медресе &quot;Вали-муллы&quot; и был изгнан оттуда в 1905 г. за участие в демонстрации.&#xa;&#xa;В 1906 г. шакирд переехал в Уфу и поступил в медресе &quot;Галия&quot;. Здесь он пишет свои первые рассказы."/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomafteroutfov="20" blendcolor="0x000000" zoomafterinfov="90" zoomin="0" zoomout="0" enabled="1" type="crossdissolve" zoomoutpause="1" delay="none" zoomspeed="2" zoomfov="20" softedge="0"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control sensitivity="8" lockedwheel="0" zoomcentercursor="1" dblclickfullscreen="0" contextfullscreen="1" contextvr="1" contextprojections="0" rubberband="0" lockedmouse="0" lockedkeyboard="0" speedwheel="1" invertwheel="0" lockedkeyboardzoom="0" hideabout="0" invertcontrol="1" simulatemass="1"/>
+    <vr toggleskinbutton="1"/>
+  </panorama>
+  <panorama id="node12">
+    <input height="3749" leveltilesize="510" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" width="3749" overlap="1">
+      <level height="3749" preload="0" predecode="0" width="3749"/>
+      <level height="1874" preload="0" predecode="0" width="1874"/>
+      <level height="937" preload="0" predecode="0" width="937"/>
+      <level height="468" preload="1" predecode="1" width="468"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-178.792" fovmode="0">
+      <start pan="91.2253" fov="70" projection="4" tilt="9.76448"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" scaletofit="1" fov="120" fovfisheye="360" tilt="90" fovstereographic="270"/>
+    </view>
+    <userdata customnodeid="" latitude="" heading="-178.792" source="" author="" info="" title="" description="" datetime="" nodeid="node12" longitude="" tags="inside|Pano2VR6" comment="" copyright="">
+      <mapcoords x_floorplan_percent="69.7409" y_floorplan_percent="78.4334" mapid="FloorPlan01" x="1.84845" y="-2.06268"/>
+    </userdata>
+    <hotspots height="0" wordwrap="1" width="180" smoothmovement="0">
+      <label backgroundalpha="1" height="0" borderalpha="1" backgroundcolor="0xffffff" wordwrap="1" bordercolor="0x000000" textalpha="1" enabled="1" border="1" borderradius="1" width="180" background="1" textcolor="0x000000"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0"/>
+      <hotspot pan="-132.49" target="" url="{node11}" skinid="ht_node" id="Point01" title="Стена &quot;Оренбург-1899&quot;" tilt="-25.55" description=""/>
+      <hotspot pan="-356.08" target="" url="{node13}" skinid="ht_node" id="Point02" title="Стена &quot;Уфа-1916&quot;" tilt="-19.2" description=""/>
+      <hotspot pan="-262.73" target="" url="" skinid="ht_info" id="Point03" title="Стена &quot;Киев-1912&quot;" tilt="-1.31" description="В 1912 г. Г.Ибрагимов уехал в Киев. Продолжал революционную деятельность, за что был посажен в одиночную камеру Киевской тюрьмы в 1913 г.&#xa;&#xa;В 1914 г. освободился, пробыл в городе месяц. Затем уехал в Одессу, а оттуда - в Сухуми. "/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomafteroutfov="20" blendcolor="0x000000" zoomafterinfov="90" zoomin="0" zoomout="0" enabled="1" type="crossdissolve" zoomoutpause="1" delay="none" zoomspeed="2" zoomfov="20" softedge="0"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control sensitivity="8" lockedwheel="0" zoomcentercursor="1" dblclickfullscreen="0" contextfullscreen="1" contextvr="1" contextprojections="0" rubberband="0" lockedmouse="0" lockedkeyboard="0" speedwheel="1" invertwheel="0" lockedkeyboardzoom="0" hideabout="0" invertcontrol="1" simulatemass="1"/>
+    <vr toggleskinbutton="1"/>
+  </panorama>
+  <panorama id="node13">
+    <input height="3750" leveltilesize="510" levelbiashidpi="1.000" levelingpitch="-2.48949" levelingroll="-2.8201499999999999" leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" width="3750" overlap="1">
+      <level height="3750" preload="0" predecode="0" width="3750"/>
+      <level height="1875" preload="0" predecode="0" width="1875"/>
+      <level height="937" preload="0" predecode="0" width="937"/>
+      <level height="468" preload="1" predecode="1" width="468"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="89.2225" fovmode="0">
+      <start pan="0" fov="70" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" scaletofit="1" fov="120" fovfisheye="360" tilt="90" fovstereographic="270"/>
+    </view>
+    <userdata customnodeid="" latitude="" heading="89.2225" source="" author="" info="" title="" description="" datetime="" nodeid="node13" longitude="" tags="inside|Pano2VR6" comment="" copyright="">
+      <mapcoords x_floorplan_percent="50.2591" y_floorplan_percent="76.5535" mapid="FloorPlan01" x="1.33209" y="-2.01324"/>
+    </userdata>
+    <hotspots height="0" wordwrap="1" width="180" smoothmovement="0">
+      <label backgroundalpha="1" height="0" borderalpha="1" backgroundcolor="0xffffff" wordwrap="1" bordercolor="0x000000" textalpha="1" enabled="1" border="1" borderradius="1" width="180" background="1" textcolor="0x000000"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0"/>
+      <hotspot pan="-277.9" target="" url="{node12}" skinid="ht_node" id="Point01" title="Стена &quot;Киев-1912&quot;" tilt="-16.55" description=""/>
+      <hotspot pan="-183.66" target="" url="{node10}" skinid="ht_node" id="Point02" title="" tilt="-35.03" description=""/>
+      <hotspot pan="-68.97" target="" url="{node14}" skinid="ht_node" id="Point03" title="Стена &quot;Казань-1909&quot;" tilt="-23.28" description=""/>
+      <hotspot pan="-346.77" target="" url="" skinid="ht_info" id="Point04" title="Стена &quot;Уфа-1916&quot;" tilt="-4.58" description="В 1916 г. Г.Ибрагимов возвратился в медресе &quot;Галия&quot; в качестве преподавателя и быстро завоевал авторитет среди учеников.&#xa;&#xa;Здесь начал издательскую деятельность. А после революции оказался в тылу белогрвардейцев и был вовлечен в шпионскую деятельность в пользу красноармейцев.&#xa;&#xa;После Октябрьской революции был избран народным депутатом, членом ВЦИКа. Встречался с Лениным. Активно вел просвятительскую и пропогандистскую работу."/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomafteroutfov="20" blendcolor="0x000000" zoomafterinfov="90" zoomin="0" zoomout="0" enabled="1" type="crossdissolve" zoomoutpause="1" delay="none" zoomspeed="2" zoomfov="20" softedge="0"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control sensitivity="8" lockedwheel="0" zoomcentercursor="1" dblclickfullscreen="0" contextfullscreen="1" contextvr="1" contextprojections="0" rubberband="0" lockedmouse="0" lockedkeyboard="0" speedwheel="1" invertwheel="0" lockedkeyboardzoom="0" hideabout="0" invertcontrol="1" simulatemass="1"/>
+    <vr toggleskinbutton="1"/>
+  </panorama>
+  <panorama id="node14">
+    <input height="3749" leveltilesize="510" levelbiashidpi="1.000" levelingpitch="-1.02325" levelingroll="-2.9613499999999999" leveltileurl="tiles/node14/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" width="3749" overlap="1">
+      <level height="3749" preload="0" predecode="0" width="3749"/>
+      <level height="1874" preload="0" predecode="0" width="1874"/>
+      <level height="937" preload="0" predecode="0" width="937"/>
+      <level height="468" preload="1" predecode="1" width="468"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="89.7077" fovmode="0">
+      <start pan="0" fov="70" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" scaletofit="1" fov="120" fovfisheye="360" tilt="90" fovstereographic="270"/>
+    </view>
+    <userdata customnodeid="" latitude="" heading="89.7077" source="" author="" info="" title="" description="" datetime="" nodeid="node14" longitude="" tags="inside|Pano2VR6" comment="" copyright="">
+      <mapcoords x_floorplan_percent="30.9845" y_floorplan_percent="78.4334" mapid="FloorPlan01" x="0.821228" y="-2.06268"/>
+    </userdata>
+    <hotspots height="0" wordwrap="1" width="180" smoothmovement="0">
+      <label backgroundalpha="1" height="0" borderalpha="1" backgroundcolor="0xffffff" wordwrap="1" bordercolor="0x000000" textalpha="1" enabled="1" border="1" borderradius="1" width="180" background="1" textcolor="0x000000"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0"/>
+      <hotspot pan="-265.61" target="" url="{node13}" skinid="ht_node" id="Point01" title="Стена &quot;Уфа-1916&quot;" tilt="-20.76" description=""/>
+      <hotspot pan="-124.87" target="" url="{node15}" skinid="ht_node" id="Point02" title="Стена &quot;Ялта-1927&quot;" tilt="-38.95" description=""/>
+      <hotspot pan="-341.89" target="" url="" skinid="ht_info" id="Point03" title="Стена &quot;Казань-1909&quot;" tilt="-1.73" description="В 1909 г. аургазинец переехал в Казань. Пытался поступить в университет, но из-за участия в революционном движении не смог."/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomafteroutfov="20" blendcolor="0x000000" zoomafterinfov="90" zoomin="0" zoomout="0" enabled="1" type="crossdissolve" zoomoutpause="1" delay="none" zoomspeed="2" zoomfov="20" softedge="0"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control sensitivity="8" lockedwheel="0" zoomcentercursor="1" dblclickfullscreen="0" contextfullscreen="1" contextvr="1" contextprojections="0" rubberband="0" lockedmouse="0" lockedkeyboard="0" speedwheel="1" invertwheel="0" lockedkeyboardzoom="0" hideabout="0" invertcontrol="1" simulatemass="1"/>
+    <vr toggleskinbutton="1"/>
+  </panorama>
+  <panorama id="node15">
+    <input height="3749" leveltilesize="510" levelbiashidpi="1.000" levelingpitch="0.42233900000000002" levelingroll="-2.0311300000000001" leveltileurl="tiles/node15/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" width="3749" overlap="1">
+      <level height="3749" preload="0" predecode="0" width="3749"/>
+      <level height="1874" preload="0" predecode="0" width="1874"/>
+      <level height="937" preload="0" predecode="0" width="937"/>
+      <level height="468" preload="1" predecode="1" width="468"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="179.315" fovmode="0">
+      <start pan="0" fov="70" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" scaletofit="1" fov="120" fovfisheye="360" tilt="90" fovstereographic="270"/>
+    </view>
+    <userdata customnodeid="" latitude="" heading="179.315" source="" author="" info="" title="" description="" datetime="" nodeid="node15" longitude="" tags="inside|Pano2VR6" comment="" copyright="">
+      <mapcoords x_floorplan_percent="25.3886" y_floorplan_percent="66.5796" mapid="FloorPlan01" x="0.672913" y="-1.75095"/>
+    </userdata>
+    <hotspots height="0" wordwrap="1" width="180" smoothmovement="0">
+      <label backgroundalpha="1" height="0" borderalpha="1" backgroundcolor="0xffffff" wordwrap="1" bordercolor="0x000000" textalpha="1" enabled="1" border="1" borderradius="1" width="180" background="1" textcolor="0x000000"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" handcursor="1" mode="0"/>
+      <hotspot pan="-228.94" target="" url="{node14}" skinid="ht_node" id="Point01" title="Стена &quot;Казань-1909&quot;" tilt="-33.01" description=""/>
+      <hotspot pan="-109.6" target="" url="{node1}" skinid="ht_node" id="Point02" title="Вход в Музей Галимджана Ибрагимова" tilt="-22.94" description=""/>
+      <hotspot pan="-358.25" target="_blank" url="" skinid="ht_url" id="Point03" title="Стена &quot;Ялта-1927&quot;" tilt="-3.47" description="В 1927 г. у Г.Ибрагимова обострился туберкулез, и он уехал на лечение в Ялту. В периоды облегчения активно занимался писательской деятельностью. Встречался с коллегами и строил планы. К сожалению в 1938 г. он скончался, не сумев осуществить многое из задуманного."/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomafteroutfov="20" blendcolor="0x000000" zoomafterinfov="90" zoomin="0" zoomout="0" enabled="1" type="crossdissolve" zoomoutpause="1" delay="none" zoomspeed="2" zoomfov="20" softedge="0"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control sensitivity="8" lockedwheel="0" zoomcentercursor="1" dblclickfullscreen="0" contextfullscreen="1" contextvr="1" contextprojections="0" rubberband="0" lockedmouse="0" lockedkeyboard="0" speedwheel="1" invertwheel="0" lockedkeyboardzoom="0" hideabout="0" invertcontrol="1" simulatemass="1"/>
+    <vr toggleskinbutton="1"/>
+  </panorama>
+  <masternode>
+    <userdata author="" title="" tags="" comment="" copyright="" description=""/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+  <map height="1915" index="0" bgcolor="rgba(255, 255, 255, 1)" id="FloorPlan01" title="Палан музея" type="file" tileformat="jpg" zoomlevels="1" floorplannorth="90" crispedges="0" width="1930" transparent="0"/>
+</tour>
